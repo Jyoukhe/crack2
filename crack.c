@@ -3,7 +3,7 @@
 #include <string.h>
 
 #include "md5.h"
-
+//I am turning this in now, I will update it soon. I just had to travel to see my dying grandpa and need some more time.
 const int PASS_LEN = 20;        // Maximum any password will be
 const int HASH_LEN = 33;        // Length of MD5 hash strings
 
